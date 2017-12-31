@@ -15,8 +15,7 @@ gem 'jquery-rails'
 gem 'sendgrid-ruby'
 gem 'stripe'
 gem 'bootstrap-sass', '~> 3.3.5'
-gem 'jquery-rails'
-gem 'jquery-ui-rails'
+gem 'turbolinks'
 # Use sqlite3 as the database for Active Record
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
